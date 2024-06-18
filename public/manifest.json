@@ -1,6 +1,6 @@
 {
   "short_name": "React App",
-  "name": "Test-app-modal",
+  "name": "sangi-app-modal",
   "icons": [
     {
       "src": "sangi.jpeg",
@@ -9,12 +9,12 @@
     },
     {
       "src": "sangi.jpeg",
-      "type": "image/png",
+      "type": "image/jpeg",
       "sizes": "192x192"
     },
     {
       "src": "sangi.jpeg",
-      "type": "image/png",
+      "type": "image/jpeg",
       "sizes": "512x512"
     }
   ],
