@@ -31,6 +31,11 @@ export default function Main() {
             <label>Test </label>
             <input type='text' />
           </div>
+          <div>
+            <label>TEst</label>
+            <input type='text' />
+            <input type='text' />
+          </div>
         </div>
       </form>
     </div>
